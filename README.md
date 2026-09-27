@@ -16,7 +16,7 @@ I'm currently building my skills in **manual testing, test case design, API test
 * 🐍 Programming with **Python**
 * 🌐 Experience with **Django & Laravel**
 * 🗄️ Working with **MySQL & SQL**
-* 📊 Interested in **Machine Learning & Data Analysis**
+* 📊 Interested in **Software Quality Assurance & Testing**
 * 🌱 Currently completing **Full Stack SQA Training**
 * 🤝 Open to learning, collaboration, and entry-level SQA opportunities
 
