@@ -38,6 +38,7 @@ I'm currently building my skills in **manual testing, test case design, API test
 ![Manual Testing](https://img.shields.io/badge/Manual_Testing-2C3E50?style=for-the-badge)
 ![API Testing](https://img.shields.io/badge/API_Testing-FF6C37?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Newman](https://img.shields.io/badge/Newman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JMeter](https://img.shields.io/badge/Apache_JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge\&logo=jira\&logoColor=white)
 
