@@ -12,7 +12,7 @@ I'm currently building my skills in **manual testing, test case design, API test
 
 * 🎓 B.Sc. in Computer Science & Engineering — **BRAC University**
 * 🧪 Focused on **Software Quality Assurance & Testing**
-* 🔍 Interested in **Manual Testing, API Testing & Test Automation**
+* 🔍 Interested in **Manual Testing, API Testing, Performance Testing & Test Automation**
 * 🐍 Programming with **Python**
 * 🌐 Experience with **Django & Laravel**
 * 🗄️ Working with **MySQL & SQL**
