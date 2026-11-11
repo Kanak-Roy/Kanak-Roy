@@ -78,9 +78,11 @@ Manual Testing
         ↓
 Test Case Design & Execution
         ↓
+Bug Reporting & Test Management
+        ↓
 API Testing with Postman
         ↓
-Bug Reporting & Test Management
+Performance Testing
         ↓
 SDLC • STLC • Agile
         ↓
