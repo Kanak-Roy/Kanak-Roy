@@ -2,7 +2,7 @@
 <h3 align="center">Software Quality Assurance (SQA) Enthusiast | From Trainee to Quality Guardian</h3>
 
 <p align="center">
-  <a href="https://github.com/Kanak-Roy"><img src="https://github.com/Kanak-Roy?tab=followers" alt="GitHub Followers" /></a>
+  <a href="https://github.com/Kanak-Roy"><img src="https://img.shields.io/github/followers/Kanak-Roy?label=Followers" alt="GitHub Followers" /></a>
   <a href="kanakroyshanda@gmail.com"><img src="https://img.shields.io/badge/email-kanakroyshanda@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge" /></a>
   <a href="https://www.linkedin.com/in/kanak-roy-shanda-601961238/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-kanakroy-blue?style=flat-square&logo=linkedin" alt="LinkedIn Badge" /></a>
 </p>
